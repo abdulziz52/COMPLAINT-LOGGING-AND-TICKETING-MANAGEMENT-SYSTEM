@@ -1,0 +1,6 @@
+{
+  "name": "Student Complaint Logging & Ticketing Management System",
+  "description": "A multi-institution online student complaint logging, ticketing, and resolution management platform with role-based access, automated tracking, real-time messaging, and Excel data management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
